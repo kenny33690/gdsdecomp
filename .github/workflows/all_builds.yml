@@ -26,7 +26,7 @@ on:
 # SCONS_CACHE for windows must be set in the build environment
 env:
   # TODO: change this back to godotengine/godot and target master when #109685 and #109475 are merged
-  GODOT_REPOSITORY: nikitalita/godot
+  GODOT_REPOSITORY: kenny33690/godot
   # Change the README too
   GODOT_MAIN_SYNC_REF: working-branch
   SCONSFLAGS: verbose=yes warnings=all werror=no module_text_server_fb_enabled=yes minizip=yes deprecated=yes
